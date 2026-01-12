@@ -8,6 +8,7 @@ public class DemoTest {
 	public void capTest()
 	{
 		System.out.println("Captain");
+		System.out.println("Spiderman");
 	}
 
 }
