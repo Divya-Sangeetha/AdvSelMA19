@@ -8,5 +8,6 @@ public class DemoTest1 {
 	public void caTest1()
 	{
 		System.out.println("Captain America");
+		System.out.println("Hulk");
 	}
 }
