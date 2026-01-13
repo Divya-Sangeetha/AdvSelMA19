@@ -9,6 +9,7 @@ public class DemoTest {
 	{
 		System.out.println("Captain");
 		System.out.println("Spiderman");
+		System.out.println("Superman");
 	}
 
 }
